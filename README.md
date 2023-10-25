@@ -5,7 +5,11 @@ Hello and welcome to Pwnagotchi Wiki, official repo/wikipage maintained by Pwnag
 Please [head over to the Wiki section](https://github.com/pwndevelopers/community-wiki/wiki).
 
 # Contributing
-If you wish to contribute, please contact us, ideally on [Discord](https://discord.gg/PgaU3Vp) in channel "pwnrojects > Community Wiki" with your GitHub username/email/profile link, so we can add you to the writers team. After that, you can start contributing. On that same Discord server (in the same channel), you can discuss your thing with the others, get help and more guidance.
+Please see [Contributing guide](CONTRIBUTING.md)
+
+# Index
+This section contains Wiki's index, with links to all approved and published articles.
+--- TBA ---
 
 ## Styling
 This wiki is **community** based and maintained, that means it is in **your own** interest to keep is a high quality as possible, provide accurate, objective information and quality screenshots. 
